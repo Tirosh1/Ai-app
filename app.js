@@ -2,7 +2,7 @@
 // app.js
 
 // Get the OpenAI API key from your OpenAI account
-const apiKey = 'your-api-key'; 
+const apiKey = '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'; 
 
 document.getElementById('submitBtn').addEventListener('click', async () => {
     const userInput = document.getElementById('userInput').value;
